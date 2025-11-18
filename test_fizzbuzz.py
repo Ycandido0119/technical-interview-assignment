@@ -59,7 +59,7 @@ class TestFizzBuzz(unittest.TestCase):
     def test_first_number_greater_than_second(self):
         with self.assertRaises(ValueError) as context:
             fizzbuzz(20, 10)
-        self.assertIn("first number must be less than or equal to the second number", str(context.exception))
+        self.assertIn("The first number must be less than or equal to the second number", str(context.exception))
     
     def test_both_numbers_out_of_range(self):
         with self.assertRaises(ValueError) as context:
