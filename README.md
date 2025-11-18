@@ -7,12 +7,12 @@ A implementation of the FizzBuzz solution problem that takes two integers betwee
 - Python 3.6+
 
 ## Usage:
-```bash
+```zsh
 python3 fizzbuzz.py
 ```
 
 ## How to run tests:
-```bash
+```zsh
 python3 test_fizzbuzz.py
 ```
 
