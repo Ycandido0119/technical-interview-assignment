@@ -1,7 +1,7 @@
 # Python Technical Test Solution
 
 ## Description:
-A implementation of the FizzBuzz solution problem that takes two integers between 1 and 100, then prints each number in the range with "Fizz" for numbers divisible by 3 and "Buzz for numbers divisible by 5.
+An implementation of the FizzBuzz solution problem that takes two integers between 1 and 100, then prints each number in the range with "Fizz" for numbers divisible by 3 and "Buzz" for numbers divisible by 5.
 
 ## Requirements:
 - Python 3.6+
